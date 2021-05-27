@@ -1,0 +1,25 @@
+.container {
+  background-color: rgb(238, 194, 201);
+}
+.card {
+  background-color: rgb(145, 13, 145);
+  color: rgb(240, 215, 215);
+  height: 300px;
+  overflow: scroll;
+}
+.card ul {
+  color: rgb(241, 205, 211);
+}
+#vacation-package .col-med-4 {
+  background-color: rgb(206, 203, 233);
+  border: solid rgb(75, 28, 82) 2px;
+  padding: 2%;
+}
+.Jumbotron {
+  background: rgb(197, 197, 233);
+  padding: 5%;
+  margin-bottom: 5%;
+}
+.row {
+  margin-bottom: 2%;
+}
